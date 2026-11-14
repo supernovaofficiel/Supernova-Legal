@@ -21,7 +21,7 @@ Dans le cadre de son fonctionnement, le Bot collecte et stocke localement les do
 
 ## 5.1 bis Blacklist globale
 
-La blacklist globale est publiée dans un salon du serveur de support afin de permettre aux administrateurs de protéger leurs serveurs. Y figurent l'ID Discord, le pseudo et l'avatar de la personne au moment de l'inscription, le motif succinct, la date et l'auteur de la sanction. Les preuves associées (captures d'écran) ne sont accessibles qu'à l'Owner.
+La blacklist globale est consignée dans un salon privé du serveur de support, accessible uniquement à l'Owner, au Co-Owner et au staff du Bot. Y figurent l'ID Discord, le pseudo et l'avatar de la personne au moment de l'inscription, le motif succinct, la date et l'auteur de la sanction. Les preuves associées (captures d'écran) ne sont accessibles qu'aux staff du Bot.
 
 L'inscription est fondée sur l'intérêt légitime de protéger les serveurs contre les raids et comportements malveillants. Toute personne inscrite peut demander la contestation, la rectification ou le retrait de son inscription et l'effacement du message correspondant via le support officiel (article 4.6 et article 10 des CGU). Les entrées sont supprimées au bout de 12 mois sans nouvel incident.
 
